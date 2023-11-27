@@ -1,0 +1,1 @@
+-I/home/daerean/Codes/Universidad/octavo/paralela/implementation/include -I/home/daerean/Codes/Universidad/octavo/paralela/implementation/examples/common -I/home/daerean/Codes/Universidad/octavo/paralela/implementation/build/include -I/opt/cuda/include -I/include -I/examples -I/home/daerean/Codes/Universidad/octavo/paralela/implementation/tools/util/include
